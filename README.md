@@ -1,4 +1,4 @@
 # AliceInWonderLand-Theme
 Taking the "Alice in Wonderland" vibe and putting it in your ZSH theme
 
-![Screenshot](./screenshot.PNG)
+![Screenshot](./Screenshot.PNG)
