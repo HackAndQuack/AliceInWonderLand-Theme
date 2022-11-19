@@ -19,8 +19,8 @@ ZSH_THEME_GIT_PROMPT_UNTRACKED="%{$fg[cyan]%} ✭"
 ZSH_THEME_RUBY_PROMPT_PREFIX="%{$fg[green]%}‹"
 ZSH_THEME_RUBY_PROMPT_SUFFIX="›%{$reset_color%}"
 
-alice_array=("(Follow The Rabit Hole 🕳)")
-#"(Curiouser and curiouser! 🎩)" "(Take some more tea 🫖)" "(I'm late,I'm late! ⏱)"  "(Off >
+alice_text=("(Follow The Rabit Hole 🕳)")
+#"(Curiouser and curiouser! 🎩)" "(Take some more tea 🫖)" "(I'm late,I'm late! ⏱)"  - This is also more texts if you want to change it out 
 
 #PROMPT="${user} ${pwd} %F{magenta}${alice_array}% : " - This can also be used if you want to see the User but it might be to much
 PROMPT="${pwd} %F{magenta}${alice_array}% : "
