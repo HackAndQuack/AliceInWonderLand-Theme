@@ -19,13 +19,6 @@ ZSH_THEME_GIT_PROMPT_UNTRACKED="%{$fg[cyan]%} ✭"
 ZSH_THEME_RUBY_PROMPT_PREFIX="%{$fg[green]%}‹"
 ZSH_THEME_RUBY_PROMPT_SUFFIX="›%{$reset_color%}"
 
-#ZSH_HIGHLIGHT_STYLES[default]="%{$fg[green]%}"
-
-
-
-
-
-
 alice_array=("(Follow The Rabit Hole 🕳)")
 #"(Curiouser and curiouser! 🎩)" "(Take some more tea 🫖)" "(I'm late,I'm late! ⏱)"  "(Off >
 
