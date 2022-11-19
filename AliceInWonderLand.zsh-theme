@@ -1,3 +1,14 @@
+# AliceInWonderLand-Theme
+#
+# https://github.com/PuggosTheDuck/AliceInWonderLand-Theme
+#
+# Copyright 2022, All rights reserved
+#
+# Code licensed under the MIT license
+# http://zenorocha.mit-license.org
+#
+# @author Ben Topolosky
+
 local user='%F{13}%}%n@%{%F{135}%}%m%{$reset_color%}'
 local pwd='%F{135}%}%~%{$reset_color%}'
 local return_code='%(?..%{$fg[red]%}%? ↵%{$reset_color%})'
