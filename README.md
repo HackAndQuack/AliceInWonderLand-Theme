@@ -11,7 +11,6 @@ Taking the "Alice in Wonderland" vibe and putting it in your ZSH theme
 <ol>
 <li>Download using the <a href="https://github.com/PuggosTheDuck/AliceInWonderLand-Theme/archive/master.zip">GitHub .zip download</a> option and unzip them.</li>
 <li>Move <code>AliceInWonderLand.zsh-theme</code> file to <a href="https://github.com/robbyrussell/oh-my-zsh/">oh-my-zsh</a>&#x27;s theme folder: <code>oh-my-zsh/themes/AliceInWonderLand.zsh-theme</code>.</li>
-<li>Move <code>/lib</code> to <a href="https://github.com/robbyrussell/oh-my-zsh/">oh-my-zsh</a>&#x27;s theme folder: <code>oh-my-zsh/themes/lib</code>.</li>
 </ol>
 <h1>Activating theme</h4>
 <p>Go to your <code>~/.zshrc</code> file and set <code>ZSH_THEME=&quot;AliceInWonderLand&quot;</code>.</p>
