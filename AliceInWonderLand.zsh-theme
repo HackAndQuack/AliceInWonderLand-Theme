@@ -33,6 +33,6 @@ ZSH_THEME_RUBY_PROMPT_SUFFIX="›%{$reset_color%}"
 alice_text=("(Follow The Rabit Hole 🕳)")
 #"(Curiouser and curiouser! 🎩)" "(Take some more tea 🫖)" "(I'm late,I'm late! ⏱)"  - This is also more texts if you want to change it out 
 
-#PROMPT="${user} ${pwd} %F{magenta}${alice_array}% : " - This can also be used if you want to see the User but it might be to much
-PROMPT="${pwd} %F{magenta}${alice_array}% : "
+#PROMPT="${user} ${pwd} %F{magenta}${alice_text}% : " - This can also be used if you want to see the User but it might be to much
+PROMPT="${pwd} %F{magenta}${alice_text}% : "
 RPROMPT="${return_code} ${git_branch} \$(ruby_prompt_info) 🐇"
